@@ -1,0 +1,18 @@
+/* .main-foto{
+  height: calc(100vh - 136px);
+  overflow-x: auto;
+  margin-left: 130px;
+  padding-left: 120px;
+  width: 1450px;
+} */
+
+.project{
+  /* display: flex;
+  gap: 20px; */
+  flex-wrap: wrap;
+}
+
+.foto{
+  height: 380px;
+  width: 500px;
+}

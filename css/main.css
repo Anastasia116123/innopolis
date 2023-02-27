@@ -1,0 +1,21 @@
+.foto{
+  width: 600px;
+  height: 520px;
+}
+
+.main-inner{
+  display: flex;
+  gap: 50px;
+}
+
+.item-title{
+  margin-bottom: 25px;
+  padding-left: 160px;
+}
+.students{
+  padding-left: 10px;
+}
+
+.students_card{
+  list-style-type: upper-roman;
+}
